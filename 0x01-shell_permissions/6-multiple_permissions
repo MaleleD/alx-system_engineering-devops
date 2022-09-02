@@ -1,2 +1,2 @@
 #!/bin/bash
-chmod 444 hello
+nchmod u+x g+x o+r hello
